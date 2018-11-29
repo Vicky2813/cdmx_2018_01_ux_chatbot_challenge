@@ -1,5 +1,13 @@
 # CHATBOT
 
+UMI es un Chatbot, cuyo objetivo es reducir un porcentaje de llamadas que ingresan al call center ayudando al usuario a resolver los problemas más frecuentes.
+
+![Chatbot](/img/chatbot.PNG)
+
+### Desarrollado para
+
+[Laboratoria](https://www.laboratoria.la/)
+
 ## Preámbulo
 
 TELMOBI es una de las principales empresas de telecomunicaciones en México que actualmente provee servicios de telefonía móvil e Internet y, en menor medida, telefonía fija. A partir de Junio de este año,  el  Instituto Federal de Telecomunicaciones (IFT), aprobó la fusión de TELMOBI con Verne, empresa con liderazgo mundial en medios y contenidos. El objetivo de esta megafusión es ofrecer servicios de cuádruple play: telefonía fija y móvil, internet y televisión.
